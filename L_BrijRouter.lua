@@ -1,4 +1,4 @@
--- module ("L_BrijRouter", package.seeall)
+module ("L_BrijRouter", package.seeall)
 
 -- [[
     This module provides funtionality to enable / disable port forwarding
