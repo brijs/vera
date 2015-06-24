@@ -1,6 +1,6 @@
 # vera
 
-Collection of custom lua scripts & modules that I used for customizing vera Home control system (http://getvera.com/). I don't expect these modules to be used as-is, but it can be used as a reference to do something similar. The example code below can be run in the `Develop apps` section of your Vera portal. You ll need to upload the lua files (Portal > `Luup files`) in this project prior to using these modules.
+Collection of custom lua scripts & modules that I used for customizing vera Home control system (http://getvera.com/). I don't expect these modules to be used as-is, but it can be used as a reference to do something similar. The example code below can be run in the `Develop apps` section of your Vera portal, or as part of one or more `Scenes` in Vera. You ll need to upload the lua files (Portal > `Luup files`) in this project prior to using these modules.
 
 ### Modules
 3 modules so far:
